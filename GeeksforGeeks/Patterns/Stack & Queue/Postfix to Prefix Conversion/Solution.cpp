@@ -15,8 +15,6 @@ class Solution {
 				string final = s[i] + s2 + s1;
 				st.push(final);
 			}
-			
-			
 			else {
 				string temp = "";
 				temp += s[i];
